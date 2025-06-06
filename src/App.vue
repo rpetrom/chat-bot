@@ -5,7 +5,7 @@ import ChatBot from "./components/ChatBot.vue";
 
 <template>
   <v-app style="background-color: #f5f5f5">
-    
+    <!--<Navegacion /> -->
     <v-layout>
       <ChatBot />
     </v-layout>
@@ -31,7 +31,7 @@ import ChatBot from "./components/ChatBot.vue";
 .bot-message th {
   background-color: #f5f5f5;
 }
-.bot-message li{
+.bot-message li {
   margin-left: 20px;
 }
 .logo {
